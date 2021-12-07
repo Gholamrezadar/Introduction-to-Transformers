@@ -6,7 +6,7 @@ Bachelors Final Project at Shahid Bahonar University of Kerman
 ## Slides
 All the slides are available in this repository in PDF and PPTX format.
 * 1 - An Introduction to Transformers
-* 2 - A Deep Dive into the Transformers Architecture
+* 2 - A Deep Dive into Transformers Architecture
 * 3 - Linformer & Performer
 * 4 - Introduction to HuggingFace Transformers Library
 ## Videos
